@@ -3,3 +3,9 @@ https://www.bilibili.com/video/BV1zK411p7kH?p=3
 
 Android】AndroidStudio3.0+保存并查看SQLite数据库文件
 https://blog.csdn.net/midnight_time/article/details/80964647
+
+Android：SQLiteOpenHelper类（SQLlite数据库操作）详细解析
+https://blog.csdn.net/carson_ho/article/details/53241633
+
+RGB在线颜色生成调色板
+http://www.ku51.net/color/rgb.html
